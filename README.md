@@ -1,2 +1,2 @@
 # Reinforcement-Learning-DPO
-Direct Preference Optimization paper  (Reinforcement Learning)
+Project on Direct Preference Optimization paper  (Reinforcement Learning)
