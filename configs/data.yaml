@@ -1,0 +1,6 @@
+# Hugging Face DPO-ready preference dataset
+source: hf
+dataset_name: argilla/distilabel-intel-orca-dpo-pairs
+split: train
+batch_size: 4
+max_samples: 5
